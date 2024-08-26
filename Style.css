@@ -1,7 +1,7 @@
-section{
-    background-color: brown;
+nav{
+    display: inline;
 }
 
 p{
-    font-size: 50px;
+    font-family: roboto;
 }
